@@ -1,6 +1,30 @@
-# Vue 3 + Vite
+# 云服务器页面
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+这个是我之前一个面试做的
 
-Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
-"# yunmodel" 
+以后可能会更新吧
+
+想改造的话环境可能需要注意一下哦：
+
+![1753098077233](image/README/1753098077233.png)
+
+
+就主要是三个页面：
+
+
+#### 主页(选购页)：
+
+![1753097945299](image/README/1753097945299.png)
+
+
+#### 详情页：
+
+![1753097957239](image/README/1753097957239.png)
+
+
+#### 创建页：
+
+![1753097965976](image/README/1753097965976.png)
+
+
+因为面试前端，所以后端都没做。
